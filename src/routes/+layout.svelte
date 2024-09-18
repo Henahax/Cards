@@ -2,6 +2,6 @@
 	import './styles.css';
 </script>
 
-<main class="bg-base-300">
+<main>
 	<slot />
 </main>
